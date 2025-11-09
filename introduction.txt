@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+My name is Wuor Bhang, and I am a student learning Git and GitHub. 
+I am passionate about technology, software development, and data science.
+I believe that learning version control will help me collaborate better 
+and manage projects more efficiently.
