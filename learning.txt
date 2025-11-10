@@ -1,3 +1,5 @@
-I have learned how to create repositories, make commits, use branches, 
+What I have learned from this course
+
+I have learned how to create repositories, make commits, use branches,
 and collaborate on GitHub. This has strengthened my understanding of version control 
 and improved my ability to manage and track project changes efficiently.
